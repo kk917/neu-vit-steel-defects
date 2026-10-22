@@ -1,0 +1,12 @@
+torch>=2.2
+torchvision
+open_clip_torch
+timm
+scikit-learn
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+pillow
+kagglehub
