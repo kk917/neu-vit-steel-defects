@@ -2,6 +2,7 @@
 
 A few illustrative images (3 per class) from the NEU surface defect database.
 The full dataset is downloaded automatically by the code via kagglehub.
+If Kaggle asks for credentials, download the dataset manually and set DATA_DIR.
 
 Please cite:
 - K. Song and Y. Yan, Applied Surface Science 285 (2013) 858-864.
